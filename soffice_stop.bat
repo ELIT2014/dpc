@@ -1,0 +1,1 @@
+/usr/lib/openoffice/program/soffice -unaccept=socket,host=localhost,port=7525;urp
